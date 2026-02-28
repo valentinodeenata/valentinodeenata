@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentino</h1>
-<h3 align="center">Mobile Engineer • Flutter Developer • Odoo ERP Backend Engineer • Business System Architect</h3>
+<h3 align="center">Software Developer • Odoo ERP Backend Engineer • Mobile Developer • Web Developer</h3>
 
 ---
 
