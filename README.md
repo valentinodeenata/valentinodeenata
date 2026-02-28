@@ -73,8 +73,8 @@ Key Contributions:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizzlerwannabekid&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizzlerwannabekid&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=valentinodeenata&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentinodeenata&theme=tokyonight" />
 </p>
 
 ---
