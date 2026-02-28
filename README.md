@@ -1,5 +1,17 @@
+<img src="[https://raw.githubusercontent.com/valentinodeenata/valentinodeenata/morningstar.png](https://github.com/valentinodeenata/valentinodeenata/blob/main/morningstar.png)" width="200"/>
 <h1 align="center">Hi 👋, I'm Valentino</h1>
 <h3 align="center">Software Developer • Odoo ERP Backend Engineer • Mobile Developer • Web Developer</h3>
+
+```python
+class Profile:
+    def __init__(self):
+        self.name = "Valentino"
+        self.nickname = "Morningstar"
+        self.role = "Software Developer • Odoo ERP Backend Engineer • Mobile Developer • Web Developer"
+        self.specialization = "Odoo ERP Backend Engineer"
+        self.location = "Jakarta, Indonesia"
+```
+
 
 ---
 
