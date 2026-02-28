@@ -20,7 +20,6 @@
 </p>
 
 <p align="center">
-  <!-- Odoo Badge -->
   <img src="https://img.shields.io/badge/Odoo-ERP%20Framework-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
 </p>
 
@@ -42,10 +41,14 @@
 
 ---
 
-### 📫 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/valentinobiramaputra">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://instagram.com/USERNAME_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/valentinobiramaputra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
