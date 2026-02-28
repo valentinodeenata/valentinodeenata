@@ -70,13 +70,17 @@ Key Contributions:
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=valentinodeenata&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
-  <img src="https://github-readme-stats.vercel.app/api?username=valentinodeenata&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentinodeenata&theme=tokyonight" />
-  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=valentinodeenata&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinodeenata&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinodeenata&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
