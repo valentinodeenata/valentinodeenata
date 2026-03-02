@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/valentinodeenata/valentinodeenata/main/morningstar.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/valentinodeenata/valentinodeenata/main/morningstar.png" width="450"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Valentino</h1>
-<h3 align="center">Software Developer • Odoo ERP Backend Engineer • Mobile Developer • Web Developer</h3>
+<!-- <h1 align="center">Hi 👋, I'm Valentino</h1>
+<h3 align="center">Software Developer • Odoo ERP Backend Engineer • Mobile Developer • Web Developer</h3> -->
 
 
 ```python
