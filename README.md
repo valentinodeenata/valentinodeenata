@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/valentinodeenata/valentinodeenata/main/morningstar.png" width="350"/>
+  <img src="https://raw.githubusercontent.com/valentinodeenata/valentinodeenata/main/m.png" width="350"/>
 </p>
 
 <!-- <h1 align="center">Hi 👋, I'm Valentino</h1>
