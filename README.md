@@ -45,18 +45,34 @@ Key Contributions:
 - Contributed to testing, deployment, documentation & cross-team collaboration
 
 ---
-
 ### 🛠 Tech Stack
 
+<h4 align="center">Mobile Development</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,python,php,laravel,js,nodejs,react,git,postgresql,mongodb,redis,linux,aws,gcp,terraform" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
 </p>
 
+<h4 align="center">Backend Development</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,nodejs,golang" />
+</p>
+
+<h4 align="center">Frontend Development</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap" />
+</p>
+
+<h4 align="center">Database & Infrastructure</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,linux,aws,gcp,terraform,docker,git,rabbitmq" />
+</p>
+
+<h4 align="center">ERP & Enterprise Systems</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Odoo-ERP%20Framework-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Host--to--Host-Banking%20Integration-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20API-Integration-0A66C2?style=for-the-badge"/>
 </p>
-
 ---
 
 ### 🏗 Featured Projects
