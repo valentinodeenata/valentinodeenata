@@ -73,7 +73,6 @@ Key Contributions:
   <img src="https://img.shields.io/badge/Host--to--Host-Banking%20Integration-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/REST%20API-Integration-0A66C2?style=for-the-badge"/>
 </p>
----
 
 ### 🏗 Featured Projects
 
