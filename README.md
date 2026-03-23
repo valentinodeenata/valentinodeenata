@@ -21,7 +21,6 @@ class Profile:
 
 ### 🚀 About Me
 
-- 🔭 Currently building: **Quran 2026 – Enterprise Flutter Application**
 - 🏢 Odoo Developer at **PT. Agro Boga Utama (2022–Present)**
 - 🧠 Specialized in ERP customization, HRIS systems & enterprise workflow automation
 - ⚡ Passionate about scalable architecture, performance optimization & clean code
