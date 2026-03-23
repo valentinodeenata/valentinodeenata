@@ -13,7 +13,6 @@ class Profile:
         self.nickname = "Morningstar"
         self.role = "Software Developer • Odoo ERP Backend Engineer • Mobile Developer • Web Developer"
         self.specialization = "Odoo ERP Backend Engineer"
-        self.location = "Jakarta, Indonesia"
 ```
 ###
 
@@ -32,7 +31,6 @@ class Profile:
 - 🏢 Odoo Developer at **PT. Agro Boga Utama (2022–Present)**
 - 🧠 Specialized in ERP customization, HRIS systems & enterprise workflow automation
 - ⚡ Passionate about scalable architecture, performance optimization & clean code
-- 🌍 Based in Jakarta, Indonesia
 
 ---
 
