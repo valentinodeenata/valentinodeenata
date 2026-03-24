@@ -16,6 +16,12 @@ class Profile:
 ```
 ###
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinodeenata&theme=tokyonight&hide_border=true" />
+</p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=valentinodeenata&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=valentinodeenata&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -24,32 +30,7 @@ class Profile:
 
 ###
 
----
 
-### 🚀 About Me
-
-- 🏢 Odoo Developer at **PT. Agro Boga Utama (2022–Present)**
-- 🧠 Specialized in ERP customization, HRIS systems & enterprise workflow automation
-- ⚡ Passionate about scalable architecture, performance optimization & clean code
-
----
-
-### 🏢 Enterprise Experience
-
-**Odoo Developer — PT. Agro Boga Utama (2022–Present)**  
-Responsible for developing and customizing Odoo ERP modules across CRM, Purchase, POS, Inventory, HR, and Finance departments.
-
-Key Contributions:
-- Built custom POS Member Point loyalty system
-- Implemented full HRIS system (e-Learning, ESS, Performance Management)
-- Developed inventory workflow automation (Transfer NK, Warehouse Consume, Product Onboarding)
-- Integrated host-to-host banking systems (CIMB & Permata)
-- Created Vendor Portal & Legal Document Control system
-- Designed reimbursement approval & purchase workflow logic
-- Implemented role-based access control & structured approval pipelines
-- Contributed to testing, deployment, documentation & cross-team collaboration
-
----
 ### 🛠 Tech Stack
 
 <h4 align="center">Mobile Development</h4>
@@ -79,6 +60,33 @@ Key Contributions:
   <img src="https://img.shields.io/badge/REST%20API-Integration-0A66C2?style=for-the-badge"/>
 </p>
 
+---
+
+### 🚀 About Me
+
+- 🏢 Odoo Developer at **PT. Agro Boga Utama (2022–Present)**
+- 🧠 Specialized in ERP customization, HRIS systems & enterprise workflow automation
+- ⚡ Passionate about scalable architecture, performance optimization & clean code
+
+---
+
+### 🏢 Enterprise Experience
+
+**Odoo Developer — PT. Agro Boga Utama (2022–Present)**  
+Responsible for developing and customizing Odoo ERP modules across CRM, Purchase, POS, Inventory, HR, and Finance departments.
+
+Key Contributions:
+- Built custom POS Member Point loyalty system
+- Implemented full HRIS system (e-Learning, ESS, Performance Management)
+- Developed inventory workflow automation (Transfer NK, Warehouse Consume, Product Onboarding)
+- Integrated host-to-host banking systems (CIMB & Permata)
+- Created Vendor Portal & Legal Document Control system
+- Designed reimbursement approval & purchase workflow logic
+- Implemented role-based access control & structured approval pipelines
+- Contributed to testing, deployment, documentation & cross-team collaboration
+
+---
+
 ### 🏗 Featured Projects
 
 🕌 **Quran 2026 (2026)**
@@ -107,12 +115,6 @@ Key Contributions:
 ---
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinodeenata&theme=tokyonight&hide_border=true" />
-</p>
 
 ### 🎯 Core Competencies
 
