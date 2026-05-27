@@ -11,8 +11,8 @@ class Profile:
     def __init__(self):
         self.name = "Valentino"
         self.nickname = "Morningstar"
-        self.role = "Software Developer • Odoo ERP Backend Engineer • Mobile Developer • Web Developer"
-        self.specialization = "Odoo ERP Backend Engineer"
+        self.role = "Software Developer • Backend Engineer • Mobile Developer • Web Developer"
+        self.specialization = "Backend Engineer"
 ```
 ###
 
