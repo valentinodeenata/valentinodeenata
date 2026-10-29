@@ -16,7 +16,7 @@ class Profile:
 ```
 ###
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinodeenata&theme=tokyonight&hide_border=true" />
@@ -31,7 +31,7 @@ class Profile:
 ###
 
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <h4 align="center">Mobile Development</h4>
 <p align="center">
@@ -61,7 +61,7 @@ class Profile:
 </p>
 
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://www.instagram.com/valentino.biramaputra/" target="_blank">
