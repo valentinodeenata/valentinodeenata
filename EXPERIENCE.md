@@ -2,11 +2,11 @@
 
 [← Back to profile](https://github.com/valentinodeenata)
 
-## Odoo Developer · 2022 to present
+## ERP System Developer · 2022 to present
 
 Multi-company distribution group, Indonesia.
 
-I build and maintain the custom Odoo modules behind daily operations, across Odoo 12, 16 and 19 and several group companies. Most of this work lives in private repositories.
+I build and maintain the custom ERP System modules behind daily operations, across three major versions and several group companies. Most of this work lives in private repositories.
 
 ### Bank integration
 

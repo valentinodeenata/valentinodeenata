@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
-  <title id="title">Valentino Birama Putra, backend engineer</title>
+  <title id="title">0x1uxifer, Backend Engineer</title>
   <desc id="desc">Three hand-drawn tarot cards: The Fool, The Emperor and Death.</desc>
   <defs>
     <radialGradient id="glow" cx="72%" cy="50%" r="62%">
@@ -68,14 +68,13 @@
   <rect x=".75" y=".75" width="1198.5" height="598.5" rx="19.5" fill="none" stroke="#C9A961" stroke-opacity=".22" stroke-width="1.5"/>
 
   <!-- Introduction -->
-  <g transform="translate(76 150)"><g class="twinkle"><use href="#morningstar"/></g></g>
-  <text class="mono" x="100" y="156" font-size="16" fill="#C9A961" letter-spacing="6">MORNINGSTAR</text>
-  <text class="serif" x="62" y="244" font-size="66" fill="#F3EEDF">Valentino</text>
-  <text class="serif" x="62" y="318" font-size="66" fill="#F3EEDF">Birama Putra</text>
-  <text class="serif" x="64" y="376" font-size="24" fill="#C8C2B2">Backend engineer for ERP</text>
-  <text class="serif" x="64" y="410" font-size="24" fill="#C8C2B2">and bank integrations</text>
-  <line x1="64" y1="444" x2="170" y2="444" stroke="#C9A961" stroke-width="1.5"/>
-  <text class="mono" x="64" y="478" font-size="15.5" fill="#8F8A7D" letter-spacing=".6">Jakarta · Odoo · Python · since 2022</text>
+  <g transform="translate(76 180)"><g class="twinkle"><use href="#morningstar"/></g></g>
+  <text class="mono" x="100" y="186" font-size="16" fill="#C9A961" letter-spacing="6">MORNINGSTAR</text>
+  <text x="60" y="288" font-family="'Times New Roman', Times, serif" font-size="94" fill="#F3EEDF">0x1uxifer</text>
+  <text class="serif" x="64" y="346" font-size="28" fill="#F3EEDF">Backend Engineer</text>
+  <text class="serif" x="64" y="380" font-size="22" fill="#C8C2B2">ERP Systems &amp; Banking Integrations</text>
+  <line x1="64" y1="414" x2="170" y2="414" stroke="#C9A961" stroke-width="1.5"/>
+  <text class="mono" x="64" y="448" font-size="15.5" fill="#8F8A7D" letter-spacing=".6">Jakarta, Indonesia · Since 2022</text>
 
   <!-- 0: The Fool -->
   <g transform="translate(610 150)">

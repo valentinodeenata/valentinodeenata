@@ -8,7 +8,7 @@ What I ship with in production.
 
 | | |
 | :--- | :--- |
-| **ERP** | ![Odoo](https://img.shields.io/badge/Odoo-14141C?style=for-the-badge&logo=odoo&logoColor=C9A961) ![Host-to-Host](https://img.shields.io/badge/Host--to--Host-14141C?style=for-the-badge) ![SNAP BI](https://img.shields.io/badge/SNAP_BI-14141C?style=for-the-badge) |
+| **ERP** | ![ERP System](https://img.shields.io/badge/ERP_System-14141C?style=for-the-badge) ![Host-to-Host](https://img.shields.io/badge/Host--to--Host-14141C?style=for-the-badge) ![SNAP BI](https://img.shields.io/badge/SNAP_BI-14141C?style=for-the-badge) |
 | **Backend** | ![Python](https://img.shields.io/badge/Python-14141C?style=for-the-badge&logo=python&logoColor=C9A961) ![Flask](https://img.shields.io/badge/Flask-14141C?style=for-the-badge&logo=flask&logoColor=C9A961) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-14141C?style=for-the-badge&logo=rabbitmq&logoColor=C9A961) ![REST API](https://img.shields.io/badge/REST_API-14141C?style=for-the-badge) |
 | **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14141C?style=for-the-badge&logo=postgresql&logoColor=C9A961) ![SQLite](https://img.shields.io/badge/SQLite-14141C?style=for-the-badge&logo=sqlite&logoColor=C9A961) |
 | **Ops** | ![Docker](https://img.shields.io/badge/Docker-14141C?style=for-the-badge&logo=docker&logoColor=C9A961) ![Linux](https://img.shields.io/badge/Linux-14141C?style=for-the-badge&logo=linux&logoColor=C9A961) ![Git](https://img.shields.io/badge/Git-14141C?style=for-the-badge&logo=git&logoColor=C9A961) |

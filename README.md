@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/arcana.svg" width="100%" alt="Valentino Birama Putra, backend engineer for ERP and bank integrations. Three tarot cards: The Fool, The Emperor and Death." />
+  <img src="assets/arcana.svg" width="100%" alt="0x1uxifer, Backend Engineer, ERP Systems &amp; Banking Integrations. Three tarot cards: The Fool, The Emperor and Death." />
 </p>
 
 <p align="center">
@@ -13,10 +13,10 @@
 
 ```python
 morningstar = Engineer(
-    name="Valentino Birama Putra",
-    role="Backend engineer, ERP and bank integrations",
+    name="0x1uxifer",
+    role="Backend Engineer, ERP Systems & Banking Integrations",
     based_in="Jakarta, Indonesia (UTC+07:00)",
-    builds=["custom Odoo modules", "host-to-host banking", "approval workflows"],
+    builds=["custom ERP System modules", "host-to-host banking", "approval workflows"],
     runs_on=["Python", "PostgreSQL", "RabbitMQ", "Docker"],
     exploring=["AI agents", "MCP", "machine learning"],
 )
@@ -57,7 +57,7 @@ How I think about the work, in the order the deck deals it.
 ### XIII · Death
 **The rebuild.** End what has been outgrown.
 
-- Odoo 12, 16 and 19 in production
+- Three ERP System versions in production
 - Ghost, rebuilt from the bot it replaced
 - From early CRUD apps to enterprise ERP
 
@@ -85,7 +85,7 @@ An AI agent and mobile apps, built outside of work. **[See all projects →](PRO
 
 The tools I ship with, and the ones I'm learning. **[See the full tech stack →](TECH_STACK.md)**
 
-![Odoo](https://img.shields.io/badge/Odoo-14141C?style=for-the-badge&logo=odoo&logoColor=C9A961) ![Python](https://img.shields.io/badge/Python-14141C?style=for-the-badge&logo=python&logoColor=C9A961) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14141C?style=for-the-badge&logo=postgresql&logoColor=C9A961) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-14141C?style=for-the-badge&logo=rabbitmq&logoColor=C9A961) ![Docker](https://img.shields.io/badge/Docker-14141C?style=for-the-badge&logo=docker&logoColor=C9A961) ![Flutter](https://img.shields.io/badge/Flutter-14141C?style=for-the-badge&logo=flutter&logoColor=C9A961)
+![ERP System](https://img.shields.io/badge/ERP_System-14141C?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-14141C?style=for-the-badge&logo=python&logoColor=C9A961) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14141C?style=for-the-badge&logo=postgresql&logoColor=C9A961) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-14141C?style=for-the-badge&logo=rabbitmq&logoColor=C9A961) ![Docker](https://img.shields.io/badge/Docker-14141C?style=for-the-badge&logo=docker&logoColor=C9A961) ![Flutter](https://img.shields.io/badge/Flutter-14141C?style=for-the-badge&logo=flutter&logoColor=C9A961)
 
 <br />
 
