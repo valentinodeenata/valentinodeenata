@@ -48,7 +48,7 @@ Do you know what makes Death such a misunderstood card? It doesn't represent the
 </td>
 <td width="33%" valign="top">
 
-### The Emperor
+### The Emperor — The Weight of Authority
 
 Do you know what makes the Emperor powerful? It isn't the throne he sits upon, nor the authority he commands. It's his ability to govern himself before governing others. He understands that true leadership is not about demanding respect, but earning it through discipline, integrity, and responsibility. For a crown is not a symbol of privilege, but a reminder of the weight one must carry.
 
