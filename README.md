@@ -12,14 +12,13 @@
 <br />
 
 ```python
-morningstar = Engineer(
-    name="0x1uxifer",
-    role="Backend Engineer, ERP Systems & Banking Integrations",
-    based_in="Jakarta, Indonesia (UTC+07:00)",
-    builds=["custom ERP System modules", "host-to-host banking", "approval workflows"],
-    runs_on=["Python", "PostgreSQL", "RabbitMQ", "Docker"],
-    exploring=["AI agents", "MCP", "machine learning"],
-)
+class Profile:
+    def __init__(self):
+        self.name = "0x1uxifer"
+        self.role = "Backend Engineer, ERP Systems & Banking Integrations"
+        self.based_in = "Jakarta, Indonesia (UTC+07:00)"
+        self.specializes_in = ["ERP Systems", "Banking Systems", "Workflow Automation"]
+        self.exploring = ["AI Agents", "MCP", "Machine Learning"]
 ```
 
 > *Scorched earth: burn what no longer serves the system, then build it back cleaner.*
