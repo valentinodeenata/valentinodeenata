@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
+  <title id="title">Valentino Birama Putra, backend engineer</title>
+  <desc id="desc">Three hand-drawn tarot cards: The Fool, The Emperor and Death.</desc>
+  <defs>
+    <radialGradient id="glow" cx="72%" cy="50%" r="62%">
+      <stop offset="0" stop-color="#2A2230"/>
+      <stop offset="1" stop-color="#0A0A0F"/>
+    </radialGradient>
+    <linearGradient id="cardFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#191821"/>
+      <stop offset="1" stop-color="#0F0F16"/>
+    </linearGradient>
+    <linearGradient id="dawn" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E9C46A"/>
+      <stop offset="1" stop-color="#A63D2F"/>
+    </linearGradient>
+
+    <!-- The white rose is shared by The Fool and Death -->
+    <g id="rose">
+      <g fill="#EDE7D6" stroke="#0F0F16" stroke-width=".7">
+        <circle cy="-5.5" r="5"/>
+        <circle cx="5.2" cy="-1.7" r="5"/>
+        <circle cx="3.2" cy="4.4" r="5"/>
+        <circle cx="-3.2" cy="4.4" r="5"/>
+        <circle cx="-5.2" cy="-1.7" r="5"/>
+      </g>
+      <circle r="2.4" fill="#C9A961"/>
+    </g>
+
+    <g id="morningstar" fill="#C9A961">
+      <path d="M0-12 2.4-2.4 12 0 2.4 2.4 0 12-2.4 2.4-12 0-2.4-2.4Z"/>
+      <path d="M0-6 1.2-1.2 6 0 1.2 1.2 0 6-1.2 1.2-6 0-1.2-1.2Z" transform="rotate(45)" opacity=".7"/>
+    </g>
+
+    <g id="frame">
+      <rect width="170" height="310" rx="11" fill="url(#cardFill)" stroke="#C9A961" stroke-width="1.6"/>
+      <rect x="7" y="7" width="156" height="296" rx="6" fill="none" stroke="#C9A961" stroke-opacity=".38"/>
+      <rect class="trace" width="170" height="310" rx="11" fill="none" stroke="#F4E3AE" stroke-width="1.8" pathLength="100" stroke-dasharray="7 93"/>
+    </g>
+  </defs>
+
+  <style>
+    .serif { font-family: Georgia, 'Times New Roman', serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, Menlo, monospace; }
+    .numeral { font: 500 21px 'Times New Roman', Times, serif; fill: #C9A961; text-anchor: middle; letter-spacing: 1px; }
+    .card-name { font: 500 12.5px Georgia, 'Times New Roman', serif; fill: #EDE7D6; text-anchor: middle; letter-spacing: 3px; }
+    .art { fill: none; stroke: #C9A961; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; }
+    .soft { stroke-opacity: .5; }
+    .float { animation: float 7s ease-in-out infinite; }
+    .f2 { animation-delay: -2.3s; }
+    .f3 { animation-delay: -4.6s; }
+    .trace { animation: trace 11s linear infinite; animation-delay: var(--delay, 0s); }
+    .rays { transform-box: fill-box; transform-origin: center; animation: spin 48s linear infinite; }
+    .twinkle { transform-box: fill-box; transform-origin: center; animation: twinkle 4.5s ease-in-out infinite; }
+    .rise { animation: rise 9s ease-in-out infinite alternate; }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+    @keyframes trace { to { stroke-dashoffset: -100; } }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes twinkle { 0%, 100% { opacity: .55; transform: scale(.88); } 50% { opacity: 1; transform: scale(1.08); } }
+    @keyframes rise { from { transform: translateY(5px); } to { transform: translateY(-3px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .float, .trace, .rays, .twinkle, .rise { animation: none; }
+      .trace { display: none; }
+    }
+  </style>
+
+  <rect width="1200" height="600" rx="20" fill="url(#glow)"/>
+  <rect x=".75" y=".75" width="1198.5" height="598.5" rx="19.5" fill="none" stroke="#C9A961" stroke-opacity=".22" stroke-width="1.5"/>
+
+  <!-- Introduction -->
+  <g transform="translate(76 150)"><g class="twinkle"><use href="#morningstar"/></g></g>
+  <text class="mono" x="100" y="156" font-size="16" fill="#C9A961" letter-spacing="6">MORNINGSTAR</text>
+  <text class="serif" x="62" y="244" font-size="66" fill="#F3EEDF">Valentino</text>
+  <text class="serif" x="62" y="318" font-size="66" fill="#F3EEDF">Birama Putra</text>
+  <text class="serif" x="64" y="376" font-size="24" fill="#C8C2B2">Backend engineer for ERP</text>
+  <text class="serif" x="64" y="410" font-size="24" fill="#C8C2B2">and bank integrations</text>
+  <line x1="64" y1="444" x2="170" y2="444" stroke="#C9A961" stroke-width="1.5"/>
+  <text class="mono" x="64" y="478" font-size="15.5" fill="#8F8A7D" letter-spacing=".6">Jakarta · Odoo · Python · since 2022</text>
+
+  <!-- 0: The Fool -->
+  <g transform="translate(610 150)">
+    <g class="float">
+      <use href="#frame"/>
+      <text class="numeral" x="85" y="38">0</text>
+      <g class="art">
+        <path class="soft" d="M14 186 44 146 62 170 88 132 124 178 156 150"/>
+        <g class="rays">
+          <circle cx="85" cy="92" r="20" fill="#C9A961" stroke="none"/>
+          <path d="M85 62V50M85 122V134M55 92H43M115 92H127M64 71 55 62M106 113 115 122M106 71 115 62M64 113 55 122"/>
+        </g>
+        <path d="M14 262V222C36 208 62 206 88 212L108 218 116 234 104 240 96 262" fill="#0F0F16"/>
+        <path d="M122 262C124 250 136 246 156 246" class="soft"/>
+        <path d="M44 212 88 152"/>
+        <path d="M78 164C78 150 84 142 92 138 104 144 108 156 100 168 94 176 80 176 78 164Z" fill="#A63D2F" stroke-width="1.2"/>
+        <path d="M86 146 94 156" stroke-width="1.1"/>
+        <path d="M78 206C78 196 80 190 84 186" stroke-width="1.2"/>
+      </g>
+      <use href="#rose" transform="translate(84 182) scale(.95)"/>
+      <text class="card-name" x="85" y="288">THE FOOL</text>
+    </g>
+  </g>
+
+  <!-- IV: The Emperor -->
+  <g transform="translate(792 118)">
+    <g class="float f2">
+      <use href="#frame" style="--delay:-3.6s"/>
+      <text class="numeral" x="85" y="38">IV</text>
+      <g class="art">
+        <path class="soft" d="M14 198 34 164 48 184M122 184 138 158 156 198"/>
+        <path d="M48 246V120C48 92 64 80 85 80S122 92 122 120V246Z" fill="#7E2A24"/>
+        <path d="M58 246V124C58 104 70 94 85 94S112 104 112 124V246" stroke-opacity=".5"/>
+        <path d="M48 118C28 124 22 104 32 96 42 88 54 98 46 108 42 112 37 108 39 104"/>
+        <path d="M122 118C142 124 148 104 138 96 128 88 116 98 124 108 128 112 133 108 131 104"/>
+        <path d="M63 76 60 50 73 63 85 44 97 63 110 50 107 76Z" fill="#C9A961" stroke="#0F0F16" stroke-width="1"/>
+        <circle cx="85" cy="150" r="13" fill="#0F0F16"/>
+        <path d="M85 137V163M72 150H98" stroke-width="1.2"/>
+        <path d="M85 120 88 127 85 134 82 127Z" fill="#C9A961" stroke="none"/>
+        <path d="M30 246V178M22 186H38"/>
+        <ellipse cx="30" cy="169" rx="6" ry="9" fill="#191821"/>
+        <circle cx="140" cy="178" r="8" fill="#191821"/>
+        <path d="M140 170V163M136.5 166H143.5"/>
+        <path d="M140 186V246" stroke-opacity=".4"/>
+        <path d="M22 246H148M16 262H154M20 254H150"/>
+      </g>
+      <text class="card-name" x="85" y="288">THE EMPEROR</text>
+    </g>
+  </g>
+
+  <!-- XIII: Death -->
+  <g transform="translate(974 150)">
+    <g class="float f3">
+      <use href="#frame" style="--delay:-7.3s"/>
+      <text class="numeral" x="85" y="38">XIII</text>
+      <clipPath id="horizon"><rect x="14" y="60" width="142" height="168"/></clipPath>
+      <g clip-path="url(#horizon)">
+        <g class="rise"><circle cx="118" cy="226" r="23" fill="url(#dawn)"/></g>
+      </g>
+      <g class="art">
+        <path d="M84 228V164H82V154H87V159H91V154H96V159H100V154H105V164H103V228" fill="#191821"/>
+        <path d="M133 228V164H131V154H136V159H140V154H145V159H149V154H154V164H152V228" fill="#191821"/>
+        <path d="M14 228H156"/>
+        <path class="soft" d="M22 240C40 235 56 245 76 240S116 235 148 241M40 253C60 248 80 257 112 252"/>
+        <path d="M34 262V62"/>
+        <path d="M34 66C52 58 66 74 86 66V136C66 144 52 128 34 136Z" fill="#050508"/>
+        <path d="M34 62 28 54 34 48 40 54Z" fill="#C9A961" stroke="none"/>
+      </g>
+      <use href="#rose" transform="translate(60 101) scale(1.55)"/>
+      <text class="card-name" x="85" y="288">DEATH</text>
+    </g>
+  </g>
+</svg>
