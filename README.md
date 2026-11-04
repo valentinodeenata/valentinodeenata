@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/arcana.svg" width="100%" alt="0x1uxifer, Backend Engineer, ERP Systems &amp; Banking Integrations. Three tarot cards: The Fool, The Emperor and Death." />
+  <img src="assets/arcana.svg" width="100%" alt="0x1uxifer, Backend Engineer, ERP Systems &amp; Banking Integrations. Three tarot cards, rising from left to right: The Fool, Death and The Emperor." />
 </p>
 
 <p align="center">
@@ -22,11 +22,47 @@ morningstar = Engineer(
 )
 ```
 
-> **0 · The Fool.** He is numbered zero because he has no place in the order yet. He walks to the edge of a cliff with only a white rose in his hand, not because he can't see the drop, but because he trusts the next step will be there.
+> **0 · The Fool: The Power of Becoming**
 >
-> **IV · The Emperor.** He sits on a throne of stone with the mountains behind him. His power isn't the crown. It's the structure he builds, the kind that keeps standing long after he leaves the room.
+> Do you know what makes The Fool the most powerful card in Tarot? It's not that he knows where he's going. It's that he doesn't need to. He carries no burden of who he was, no fear of who he might become. He stands before the unknown, not as a man without wisdom, but as one who refuses to let the past define his future. He has nothing to prove, yet everything to become.
+
+> **XIII · Death: The Art of Letting Go**
 >
-> **XIII · Death.** The most misread card in the deck. It rarely means dying. It means an ending that makes room for what comes next: his banner carries the same white rose as the Fool, and behind him the sun is rising.
+> Do you know what makes Death such a misunderstood card? It doesn't represent the end of life, but the end of what no longer deserves to live within you. Old identities, outdated beliefs, and versions of yourself you've long outgrown. Not everything is meant to follow you into the future. Sometimes, the greatest act of strength is knowing what must be left behind.
+
+> **IV · The Emperor: The Weight of the Crown**
+>
+> Do you know what makes the Emperor powerful? It isn't the throne he sits upon, nor the authority he commands. It's his ability to govern himself before governing others. He understands that true leadership is not about demanding respect, but earning it through discipline, integrity, and responsibility. For a crown is not a symbol of privilege, but a reminder of the weight one must carry.
+>
+> A true king never needs to announce his sovereignty. Any man who must constantly remind others that he is king has already questioned his own authority. You think a crown makes you powerful? No. It is your judgment, your actions, and the burdens you are willing to bear that define you.
+>
+> He does not need to raise his voice to command a room, nor does he need to threaten to establish authority. Let others boast of their victories; he will let his legacy speak. And when the kingdom falls into chaos, he does not search for someone to blame. He takes responsibility.
+>
+> For a throne can be inherited, a crown can be stolen, and a kingdom can be conquered. But respect? That must be earned.
+>
+> **A king does not prove he wears the crown. He proves he deserves it.**
+
+<br />
+
+<h3 align="center">Three cards. One becoming.</h3>
+
+<div align="center">
+
+| Card | Lesson | Philosophy |
+| :--- | :--- | :--- |
+| **The Fool** | Beginning | The courage to become. |
+| **Death** | Transformation | The courage to let go. |
+| **The Emperor** | Mastery | The discipline to lead. |
+
+</div>
+
+<p align="center">
+  <b>Begin without fear. Let go without regret. Lead without arrogance.</b>
+</p>
+
+<p align="center">
+  <em>It was never about becoming a king in the eyes of others.<br />It was about becoming worthy of your own kingdom.</em>
+</p>
 
 <br />
 
@@ -52,4 +88,7 @@ The tools I ship with, and the ones I'm learning. **[See the full tech stack →
 
 <br />
 
-<p align="center"><sub>The Fool leaps, the Emperor builds, Death clears the ground. Then the deck deals again.</sub></p>
+<p align="center">
+  <em>First, dare to become. Then, dare to let go. Finally, become someone worthy of the crown.</em><br /><br />
+  <sub>THE FOOL · DEATH · THE EMPEROR</sub>
+</p>

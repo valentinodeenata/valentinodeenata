@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
   <title id="title">0x1uxifer, Backend Engineer</title>
-  <desc id="desc">Three hand-drawn tarot cards: The Fool, The Emperor and Death.</desc>
+  <desc id="desc">Three hand-drawn tarot cards, rising from left to right: The Fool, Death and The Emperor.</desc>
   <defs>
     <radialGradient id="glow" cx="72%" cy="50%" r="62%">
       <stop offset="0" stop-color="#2A2230"/>
@@ -77,7 +77,7 @@
   <text class="mono" x="64" y="448" font-size="15.5" fill="#8F8A7D" letter-spacing=".6">Jakarta, Indonesia · Since 2022</text>
 
   <!-- 0: The Fool -->
-  <g transform="translate(610 150)">
+  <g transform="translate(610 172)">
     <g class="float">
       <use href="#frame"/>
       <text class="numeral" x="85" y="38">0</text>
@@ -100,7 +100,7 @@
   </g>
 
   <!-- IV: The Emperor -->
-  <g transform="translate(792 118)">
+  <g transform="translate(974 108)">
     <g class="float f2">
       <use href="#frame" style="--delay:-3.6s"/>
       <text class="numeral" x="85" y="38">IV</text>
@@ -126,7 +126,7 @@
   </g>
 
   <!-- XIII: Death -->
-  <g transform="translate(974 150)">
+  <g transform="translate(792 140)">
     <g class="float f3">
       <use href="#frame" style="--delay:-7.3s"/>
       <text class="numeral" x="85" y="38">XIII</text>
