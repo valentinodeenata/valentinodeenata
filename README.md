@@ -22,11 +22,48 @@ morningstar = Engineer(
 )
 ```
 
-> **0 · The Fool.** He is numbered zero because he has no place in the order yet. He walks to the edge of a cliff with only a white rose in his hand, not because he can't see the drop, but because he trusts the next step will be there.
->
-> **IV · The Emperor.** He sits on a throne of stone with the mountains behind him. His power isn't the crown. It's the structure he builds, the kind that keeps standing long after he leaves the room.
->
-> **XIII · Death.** The most misread card in the deck. It rarely means dying. It means an ending that makes room for what comes next: his banner carries the same white rose as the Fool, and behind him the sun is rising.
+> *Scorched earth: burn what no longer serves the system, then build it back cleaner.*
+
+<br />
+
+## The Three Arcana
+
+How I think about the work, in the order the deck deals it.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 0 · The Fool
+**The leap.** Walk toward what I don't know yet.
+
+- AI agents with tool calling and evals
+- MCP and machine learning fundamentals
+- Flutter apps built outside of work
+
+</td>
+<td width="33%" valign="top">
+
+### IV · The Emperor
+**The order.** Build the systems a business runs on.
+
+- ERP modules from sales to finance
+- Bank integrations that move real money
+- Access control and approval pipelines
+
+</td>
+<td width="33%" valign="top">
+
+### XIII · Death
+**The rebuild.** End what has been outgrown.
+
+- Three ERP System versions in production
+- Ghost, rebuilt from the bot it replaced
+- From early CRUD apps to enterprise ERP
+
+</td>
+</tr>
+</table>
 
 <br />
 
