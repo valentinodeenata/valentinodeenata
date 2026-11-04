@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
   <title id="title">0x1uxifer, Backend Engineer</title>
-  <desc id="desc">Three hand-drawn tarot cards: The Fool, The Emperor and Death.</desc>
+  <desc id="desc">Three hand-drawn tarot cards: The Fool, Death and The Emperor.</desc>
   <defs>
     <radialGradient id="glow" cx="72%" cy="50%" r="62%">
       <stop offset="0" stop-color="#2A2230"/>
@@ -100,7 +100,7 @@
   </g>
 
   <!-- IV: The Emperor -->
-  <g transform="translate(792 118)">
+  <g transform="translate(974 150)">
     <g class="float f2">
       <use href="#frame" style="--delay:-3.6s"/>
       <text class="numeral" x="85" y="38">IV</text>
@@ -126,7 +126,7 @@
   </g>
 
   <!-- XIII: Death -->
-  <g transform="translate(974 150)">
+  <g transform="translate(792 118)">
     <g class="float f3">
       <use href="#frame" style="--delay:-7.3s"/>
       <text class="numeral" x="85" y="38">XIII</text>

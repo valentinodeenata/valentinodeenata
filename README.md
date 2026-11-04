@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/arcana.svg" width="100%" alt="0x1uxifer, Backend Engineer, ERP Systems &amp; Banking Integrations. Three tarot cards: The Fool, The Emperor and Death." />
+  <img src="assets/arcana.svg" width="100%" alt="0x1uxifer, Backend Engineer, ERP Systems &amp; Banking Integrations. Three tarot cards: The Fool, Death and The Emperor." />
 </p>
 
 <p align="center">
@@ -34,36 +34,71 @@ How I think about the work, in the order the deck deals it.
 <tr>
 <td width="33%" valign="top">
 
-### 0 · The Fool
-**The leap.** Walk toward what I don't know yet.
+### The Fool — The Power of Becoming
 
-- AI agents with tool calling and evals
-- MCP and machine learning fundamentals
-- Flutter apps built outside of work
+Do you know what makes The Fool the most powerful card in Tarot? It's not that he knows where he's going. It's that he doesn't need to. He carries no burden of who he was, no fear of who he might become. He stands before the unknown, not as a man without wisdom, but as one who refuses to let the past define his future. He has nothing to prove, yet everything to become.
 
 </td>
 <td width="33%" valign="top">
 
-### IV · The Emperor
-**The order.** Build the systems a business runs on.
+### The Death — The Art of Letting Go
 
-- ERP modules from sales to finance
-- Bank integrations that move real money
-- Access control and approval pipelines
+Do you know what makes Death such a misunderstood card? It doesn't represent the end of life, but the end of what no longer deserves to live within you. Old identities, outdated beliefs, and versions of yourself you've long outgrown. Not everything is meant to follow you into the future. Sometimes, the greatest act of strength is knowing what must be left behind.
 
 </td>
 <td width="33%" valign="top">
 
-### XIII · Death
-**The rebuild.** End what has been outgrown.
+### The Emperor
 
-- Three ERP System versions in production
-- Ghost, rebuilt from the bot it replaced
-- From early CRUD apps to enterprise ERP
+Do you know what makes the Emperor powerful? It isn't the throne he sits upon, nor the authority he commands. It's his ability to govern himself before governing others. He understands that true leadership is not about demanding respect, but earning it through discipline, integrity, and responsibility. For a crown is not a symbol of privilege, but a reminder of the weight one must carry.
+
+A true king never needs to announce his sovereignty. Any man who must constantly remind others that he is king has already questioned his own authority. You think a crown makes you powerful? No. It is your judgment, your actions, and the burdens you are willing to bear that define you.
+
+He does not need to raise his voice to command a room, nor does he need to threaten to establish authority. Let others boast of their victories; he will let his legacy speak. And when the kingdom falls into chaos, he does not search for someone to blame. He takes responsibility.
+
+For a throne can be inherited, a crown can be stolen, and a kingdom can be conquered. But respect? That must be earned.
+
+**A king does not prove he wears the crown. He proves he deserves it.**
 
 </td>
 </tr>
 </table>
+
+<br />
+
+<p align="center">Perhaps these three cards tell a story about what it truly means to become someone.</p>
+
+<p align="center">
+  <b>The Fool teaches him to begin without fear.<br />
+  Death teaches him to let go without regret.<br />
+  And The Emperor teaches him to lead without arrogance.</b>
+</p>
+
+<p align="center">
+  <em>For the journey was never about becoming a king in the eyes of others.<br />
+  It was about becoming a man worthy of ruling his own kingdom.</em>
+</p>
+
+<br />
+
+<h3 align="center">The deeper meaning of the three cards</h3>
+
+<div align="center">
+
+| Card | Lesson | Philosophy |
+| :--- | :--- | :--- |
+| **The Fool** | Beginning | The courage to become. |
+| **Death** | Transformation | The courage to let go. |
+| **The Emperor** | Mastery | The discipline to lead. |
+
+</div>
+
+<br />
+
+<p align="center">
+  <em>"First, dare to become. Then, dare to let go. Finally, become someone worthy of the crown."</em><br /><br />
+  <sub>THE FOOL · DEATH · THE EMPEROR</sub>
+</p>
 
 <br />
 
@@ -86,7 +121,3 @@ An AI agent and mobile apps, built outside of work. **[See all projects →](PRO
 The tools I ship with, and the ones I'm learning. **[See the full tech stack →](TECH_STACK.md)**
 
 ![ERP System](https://img.shields.io/badge/ERP_System-14141C?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-14141C?style=for-the-badge&logo=python&logoColor=C9A961) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14141C?style=for-the-badge&logo=postgresql&logoColor=C9A961) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-14141C?style=for-the-badge&logo=rabbitmq&logoColor=C9A961) ![Docker](https://img.shields.io/badge/Docker-14141C?style=for-the-badge&logo=docker&logoColor=C9A961) ![Flutter](https://img.shields.io/badge/Flutter-14141C?style=for-the-badge&logo=flutter&logoColor=C9A961)
-
-<br />
-
-<p align="center"><sub>The Fool leaps, the Emperor builds, Death clears the ground. Then the deck deals again.</sub></p>
